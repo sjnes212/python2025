@@ -15,7 +15,7 @@
 > 6. Key OOP Princeples
 > 7. Fundamentals of OOPs
 
-**Introduction to Web development and Django bascis**
+**Introduction to Web development and Django basics**
 > 1. Introduction to Django
 > 2. Overview o Web Development
 > 3. Rendering HTML template in Django
