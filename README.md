@@ -1,50 +1,50 @@
 **Python Basics**
-> Operators
-> Flow Control
+> 1. Operators
+> 2. Flow Control
 
 **loops**
-> loops
-> Functions
+> 1. loops
+> 2. Functions
 
 **Advance Python and OOPs Concept**
-> String
-> List
-> Polymorphism
-> Inheritance
-> Methods and Members
-> Key OOP Princeples
-> Fundamentals of OOPs
+> 1. String
+> 2. List
+> 3. Polymorphism
+> 4. Inheritance
+> 5. Methods and Members
+> 6. Key OOP Princeples
+> 7. Fundamentals of OOPs
 
 **Introduction to Web development and Django bascis**
-> Introduction to Django
-> Overview o Web Development
-> Rendering HTML template in Django
+> 1. Introduction to Django
+> 2. Overview o Web Development
+> 3. Rendering HTML template in Django
 
 **Django templates and installing databases**
-> Templates and Template Language
-> Setting Up Databases like MySQL and Postgres
+> 1. Templates and Template Language
+> 2. Setting Up Databases like MySQL and Postgres
 
 **Django Models**
-> Django Models
+> 1. Django Models
 
 **Django forms with hands-on project**
-> Building Forms
-> Project - Expense Tracker
+> 1. Building Forms
+> 2. Project - Expense Tracker
 
 **Admin Interface and Middleware**
-> Admin Interface
-> Django Middleware
+> 1. Admin Interface
+> 2. Django Middleware
 
 **User Authentication and Django Signals**
-> User Authentication
-> Django Signals
+> 1. User Authentication
+> 2. Django Signals
 
 **Project OYO Clone**
-> Project OYO Clone
+> 1. Project OYO Clone
 
 **Django Performance Optimization and Deployment**
-> Django Performance Optimization
-> Deployment and Scaling
+> 1. Django Performance Optimization
+> 2. Deployment and Scaling
 
 
 
